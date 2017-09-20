@@ -11,11 +11,16 @@ flask开发知了课堂
 
 ４．flask相关第三方库安装（python3开发）
 flask: pip3 install flask
+
 flask-script: pip3 install flask-script
+
 flask-sqlalchemy: pip install flask-sqlalchemy
+
 flask-migrate: pip3 install flask-migrate
 
 ５．数据库使用的mysql
 安装：sudo apt-get install mysql-server mysql-client
+
 安装中需要输入一次密码
+
 驱动：pip3 install pymysql
