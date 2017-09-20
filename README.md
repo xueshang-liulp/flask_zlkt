@@ -3,6 +3,7 @@ flask开发知了课堂
 通过看网易云课堂上面flask开发实战的教程，全程跟下做的玩着完整的一个简单的web项目。
 
 １．视频地址：https://study.163.com/course/courseMain.htm?courseId=1004091002
+
 ２．完整的配套笔记：链接: https://pan.baidu.com/s/1kUDHwDT 密码: 2qvk
 
 ３．运行方式：python3 run.py
