@@ -1,0 +1,36 @@
+.question-info{
+    text-align: center;
+    margin-top: 20px;
+}
+.question-author{
+    margin-right: 15px;
+}
+.question-info{
+    margin-top: 20px;
+}
+.answer-list{
+    padding-left: 0;
+}
+.answer-list li{
+    list-style: none;
+    border-bottom: 1px solid#eee;
+    padding-top: 10px;
+}
+.avatar{
+    width: 50px;
+    height: 30px;
+}
+.user-info{
+    font-size: 16px;
+    color: #9b9b9b;
+    line-height: 40px;
+}
+.username{
+    margin-left: 20px;
+}
+.create_time{
+    float: right;
+}
+.answer-content{
+    margin-left: 75px;
+}
